@@ -30,7 +30,7 @@ I love turning ideas into functional products — from UI/UX concepts to fully d
 
 ## 📫 Contact
 
-- 💼 **Portfolio**: _coming soon_  
+- 💼 **Portfolio**: zenka.fun
 - ✉️ **Email**: thomas.adam2004@gmail.com  
 - 🧿 **LinkedIn**: https://www.linkedin.com/in/thomas-adam-252bbb373/
 
