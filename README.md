@@ -35,4 +35,4 @@ I love turning ideas into functional products — from UI/UX concepts to fully d
 
 ---
 
-![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=/Hleyy)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
