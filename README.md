@@ -34,3 +34,5 @@ I love turning ideas into functional products — from UI/UX concepts to fully d
 - ✉️ **Email**: thomas.adam2004@gmail.com  
 
 ---
+
+![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=/Hleyy)
