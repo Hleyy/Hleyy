@@ -22,8 +22,6 @@ I love turning ideas into functional products — from UI/UX concepts to fully d
 ## 📂 Featured Projects
 
 - **🌸 3D Model** — Experimentation with 3D visuals for web integration  
-- **📱 To-Do App** — Productivity tool built with JavaScript  
-- **🐾 Pet Sitter UX/UI Flow** — Complete booking flow design  
 - **🔧 Web Agency Mini-Projects** — Client onboarding, web maintenance, prototypes
 
 ---
