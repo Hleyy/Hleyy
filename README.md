@@ -1,8 +1,7 @@
-# 🌐 Thomas — FullStack Developer & Software Engineer
+# 🌐 Thomas — Développeur FullStack
 
-FullStack Developer at **MyDigitalSchool Paris**. I build scalable web applications with a focus on **Performance**, **Clean Code**, and **Business Value**.
-- Currently focusing on: **Node.js Architecture**, **TypeScript**, and **React Performance Optimization**.
-- 🎯 Goal: Delivering production-ready code for high-growth startups.
+Étudiant en 2ème année à **MyDigitalSchool Paris**. Passionné par le développement d'applications web modernes, l'architecture clean et l'optimisation des performances.
+- 🎯**Objectif immédiat :** Décrocher un stage de 8 semaines débutant le 4 mai 2026.
 
 ## 🚀 Promgramming Stacks
 <p>
