@@ -1,9 +1,10 @@
-# 🌐 Thomas — FullStack Developer
+# 🌐 Thomas — FullStack Developer & Software Engineer
 
-Hi! I'm **Thomas**, a passionate **Web Developer** focused on building clean, modern and efficient digital experiences.  
-I love turning ideas into functional products — from UI/UX concepts to fully deployed web applications. I'm currently improvi,ng my skills in **full-stack development**
+FullStack Developer at **MyDigitalSchool Paris**. I build scalable web applications with a focus on **Performance**, **Clean Code**, and **Business Value**.
+- Currently focusing on: **Node.js Architecture**, **TypeScript**, and **React Performance Optimization**.
+- 🎯 Goal: Delivering production-ready code for high-growth startups.
 
-## 🚀 Promgramming Language Tools
+## 🚀 Promgramming Stacks
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -18,11 +19,6 @@ I love turning ideas into functional products — from UI/UX concepts to fully d
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
-## 📂 Featured Projects
-
-- **🌸 3D Model** — Experimentation with 3D visuals for web integration  
-- **🔧 Web Agency Mini-Projects** — Client onboarding, web maintenance, prototypes
 
 ---
 
