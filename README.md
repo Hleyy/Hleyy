@@ -1,7 +1,7 @@
 # 🌐 Thomas — Développeur FullStack
 
 Étudiant en 2ème année à **MyDigitalSchool Paris**. Passionné par le développement d'applications web modernes, l'architecture clean et l'optimisation des performances.
-- 🎯**Objectif immédiat :** Décrocher un stage de 8 semaines débutant le 4 mai 2026.
+- 🎯**Objectif immédiat :** Décrocher une alternance pour l'année 2026/2027.
 
 ## 🚀 Promgramming Stacks
 <p>
