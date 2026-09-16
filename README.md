@@ -3,8 +3,8 @@
 
 # 🌐 Thomas — Développeur FullStack
 
-Étudiant en 2ème année à **MyDigitalSchool Paris**. Passionné par le développement d'applications web modernes, l'architecture clean et l'optimisation des performances.
-- 🎯**Objectif immédiat :** Décrocher une a
+Étudiant en 3ème année à **MyDigitalSchool Paris**. Passionné par le développement d'applications web modernes, l'architecture clean et l'optimisation des performances.
+- 🎯**Objectif immédiat :** Décrocher une alternance pour l'année 2026/2027.
 ## 🚀 Promgramming Stacks
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
